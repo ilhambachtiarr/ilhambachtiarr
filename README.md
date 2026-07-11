@@ -78,6 +78,8 @@ I enjoy building applications while continuously improving my offensive security
 | Project | Description |
 |---------|-------------|
 | 💻 **Laundry Management System** | Hospital Information System | 
+| 📊 **FinTrack** | Personal Finance Tracker & Expense Management Application |
+| 🧪 **LabPentest Web** | Vulnerable Web Environments for Hands-on Penetration Testing Practice |
 | 🔐 **Bug Bounty Notes** | Security Learning Journey & Vulnerability Write-ups |
 | ⚡ **Pentest Automation** | Custom Scripts & Tools for Web Security |
 | 🌐 **Web Applications** | Personal Projects & Custom Framework Solutions |
